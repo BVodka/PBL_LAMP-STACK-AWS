@@ -1,8 +1,8 @@
 #Documentation for Project 1 - LAMP-STACK on AWS
 - Step 1 -- Setup Servers on AWS 
-    -  ![Connecting to the EC2-instance] ( . /images/Capture -Start EC2.jpg)
+    -  ![Connecting to the EC2-instance] ( . /images/Capture -Start EC2.JPG)
    
-- Step 2 -- Configure Security Groups 
+- Step 2 -- Configure Security Groups
 - Step 3  
     - a) Update packages -- `sudo apt-get update -y`
 
